@@ -59,25 +59,5 @@ Há também 5 pastas que seguem da seguinte forma:
 
 <b>BackEnd -> models</b>: Pasta que contém as APIs usadas no Node.js em conexão com o MySQL.
 
-## 📋 Licença/License
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2023-1-MCC1/Projeto2">YoungLeader</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/2023-1-MCC1/Projeto2">FECAP, Bruno Costa Dourado, Eduardo Sturm, Fernando Kenzo Sassaki Cunha, Marcello Lassalla De Mello Castanho E Oliveira</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
-
-## 🎓 Referências
-
-Aqui estão as referências usadas no projeto.
-
-Imagens: <br>
-  <a href="http://www.bing.com/images/create">Imagens geradas pela Inteligência Artificial do Microsoft BING</a><br>
-  <a href="https://www.flaticon.com/br/icones-gratis/terra" title="terra ícones"> Terra ícones criados por Freepik - Flaticon</a> - Ícone do setor de Meio Ambiente<br>
-  <a href="https://www.flaticon.com/br/icones-gratis/seguro" title="seguro ícones"> Seguro ícones criados por Freepik - Flaticon</a> - Ícone do setor de Segurança<br>
-  <a href="https://www.flaticon.com/br/icones-gratis/ensino-superior" title="ensino superior ícones"> Ensino superior ícones criados por Kalashnyk - Flaticon</a> - Ícone do setor de Educação<br>
-  <a href="https://www.flaticon.com/br/icones-gratis/saude" title="saúde ícones"> Saúde ícones criados por Freepik - Flaticon</a> - Ícone do setor de Saúde<br>
-  
-Músicas: <br>
-  Defeat, BoxCat Games, Free Music Archive, Licença CC BY<br>
-  <a href="https://loyaltyfreakmusic.com/music/its-time-for-adventure-vol-2/">Música de Vitória</a><br>
-  Track 1, HoliznaCC0, Free Music Archive, Licença CC0/Public Domain - Música da Fase<br>
-  Corruption Eternelle, Pollux, Free Music Archive, Licença CC BY-NC-ND<br>
-  In Your Hands, retirada do site  <a href="https://www.fiftysounds.com/pt/">FiftySounds</a><br>
 
 
